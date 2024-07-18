@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="p25567a" xml:lang="en-us">
+  <title class="- topic/title ">Saving Configuration</title>
+  <body>
+    <p>Save all the settings by going to System > Save</p>
+    <fig>
+      <image alt="11" href="../../../images/11.png"/>
+    </fig>
+  </body>
+</topic>

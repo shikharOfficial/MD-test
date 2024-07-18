@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="p40536a" xml:lang="en-us">
+  <title class="- topic/title ">Internet Connectivity – PPPoE Configuration.</title>
+  <body>
+    <ol>
+      <li>
+        <p>Choose PPPoE in the connection type > Next</p>
+        <fig>
+          <image alt="5" href="../../../images/5.png"/>
+        </fig>
+      </li>
+      <li>
+        <p>Home > Click’n’Connect > Manual > PPPoE > Enter the username provided by ACT > password provided by ACT > Next</p>
+        <fig>
+          <image alt="6" href="../../../images/6.png"/>
+        </fig>
+      </li>
+      <li>
+        <p>The PPPoE session is created > Apply</p>
+        <fig>
+          <image alt="7" href="../../../images/7.png"/>
+        </fig>
+      </li>
+    </ol>
+  </body>
+</topic>

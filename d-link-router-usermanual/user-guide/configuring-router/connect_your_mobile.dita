@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="ca99856" xml:lang="en-us">
+  <title class="- topic/title ">Connect Your Mobile</title>
+  <body>
+    <ul>
+      <li>Switch on the router and connect ACT internet cable to the WAN/Internet port of the router</li>
+      <li>Go to setting in the Mobile, turn on Wi-Fi and wait until the mobile detects router name press the router name to connect.</li>
+      <li>If the router is already configured and the Wi-Fi password is known then go to settings in the Mobile</li>
+      <li>Under “Wireless and Networks”, press Wi-Fi make sure "Wi-Fi" is turned on.</li>
+      <li>Wait until the mobile detects router name press the router name if prompted enter the Wi-Fi password and press Connect.</li>
+    </ul>
+    <lq>
+      <p>
+        <b>NOTE</b>
+      </p>
+    </lq>
+    <ul>
+      <li>
+        Every Router Configuration has two parts
+        <ul>
+          <li>Configuring the Internet Part, where we tell the Router how to connect to the internet.</li>
+          <li>Configuring the Wi-Fi Part, where we decide the name and password with which we connect to the Router</li>
+        </ul>
+      </li>
+      <li>
+        Internet Configuration shown here will guide to configure the Router in PPPoE.
+        <ul>
+          <li>This will enable you to browse internet directly, every time you connect to the router. No need to login again and again.</li>
+        </ul>
+      </li>
+      <li>
+        Wi-Fi Configuration has also been given, in order to ease the process of you connecting to the Router
+        <ul>
+          <li>SSID and Password Creation have been explained.</li>
+          <li>Few high end routers have two bands to work on – 2.4 GHz and 5 GHz – This router has both the Bands.</li>
+          <li>2.4 GHz band provides higher range, but lesser speed.</li>
+          <li>5 GHz band provides lower range, but higher speed.</li>
+          <li>Changing Different WI-Fi Channels – Helps in reducing Slow Speed Issues.</li>
+        </ul>
+      </li>
+    </ul>
+  </body>
+</topic>

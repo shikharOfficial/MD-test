@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <topicref href="d-link-router-usermanual/user-guide/channel-change/channel_change_as_and_when_required.dita" navtitle="Channel Change (As and when required)">
+    <topicref href="d-link-router-usermanual/user-guide/configuring-router/connect_your_pc_to_the_router.dita" navtitle="Connect Your PC to the Router"/>
+    <topicref href="d-link-router-usermanual/user-guide/configuring-router/connect_your_mobile.dita" navtitle="Connect Your Mobile"/>
+  </topicref>
+  <topicref href="d-link-router-usermanual/user-guide/firmware-upgrade/firmware_upgrade.dita" navtitle="Firmware upgrade"/>
+  <topicref href="d-link-router-usermanual/user-guide/logging-into-router/logging_into_the_router.dita" navtitle="Logging into the Router"/>
+  <topicref href="d-link-router-usermanual/user-guide/post-configuration/saving_configuration.dita" navtitle="Saving Configuration"/>
+  <topicref href="d-link-router-usermanual/user-guide/pppoe-configuration/internet_connectivity_pppoe_configuration.dita" navtitle="Internet Connectivity – PPPoE Configuration."/>
+  <topicref href="d-link-router-usermanual/user-guide/saving-configuration/saving_configuration.dita" navtitle="Saving Configuration"/>
+  <topicref href="d-link-router-usermanual/user-guide/wifi-confiration/wifi_connectivity_router_ssidpassword_configuration.dita" navtitle="Wi-Fi Connectivity – Router SSID/Password Configuration"/>
+</map>

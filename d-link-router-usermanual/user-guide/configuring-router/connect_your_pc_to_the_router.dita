@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="c3c63c6" xml:lang="en-us">
+  <title class="- topic/title ">Connect Your PC to the Router</title>
+  <body>
+    <ul>
+      <li>Unbox the router and power up the router.</li>
+      <li>Connect the Act internet cable to the WAN/Internet port (different colored port) of the router.</li>
+      <li>An extra cable will be available with the router, take LAN cable connect one end to the LAN port(1-4) Of the router (any one port) and one end to the PC or Laptop.</li>
+      <li>In the system press key &amp; R key together to open Run dialog box.</li>
+      <li>Type ipconfig on the command prompt (Black screen). The default gateway of the LAN or Ethernet adapter will be the Router address. (Ex:192.168.1.1)</li>
+    </ul>
+  </body>
+</topic>

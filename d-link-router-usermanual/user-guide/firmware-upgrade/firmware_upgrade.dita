@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pcc983d" xml:lang="en-us">
+  <title class="- topic/title ">Firmware upgrade</title>
+  <body>
+    <p>Under System > firmware upgrade > Select the update file from the PC which has been downloaded from the router website > Update the router</p>
+    <fig>
+      <image alt="12" href="../../../images/12.png"/>
+    </fig>
+  </body>
+</topic>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="p00e45d" xml:lang="en-us">
+  <title class="- topic/title ">Channel Change (As and when required)</title>
+  <body>
+    <ul>
+      <li>Channels are the mediums through which your router transmits signals to other devices.</li>
+      <li>There are several channels that one can choose from, based on the Frequency at which your router works (Bands – 2.4 GHz or 5GHz) and the premises.</li>
+    </ul>
+    <p>
+      <b>Step A:</b>
+      Download any Wi-Fi Analyzer software from Internet (It is a Freeware).
+      <b>Step B:</b>
+      Choose to view different channels. We have provided an Example for better understanding.
+      <b>Step C:</b>
+      Channel numbers for 2.4 GHz will be in the range of 1 to 14, whereas for 5 GHz band will be > 36.
+      <b>Step D:</b>
+      Wi-Fi analyzer will show which channel is being utilized most and which one the least. Refer the example in the next slide. Choosing a channel with least utilization will give maximum advantage.
+    </p>
+    <fig>
+      <image alt="14" href="../../../images/14.png"/>
+    </fig>
+  </body>
+</topic>
